@@ -1,0 +1,14 @@
+{
+  "name": "Ordered-validity example",
+  "methods": ["model_a", "model_b"],
+  "targets": [
+    {"target_id": "target_1", "dependence_unit": "programme_alpha"},
+    {"target_id": "target_2", "dependence_unit": "programme_beta"}
+  ],
+  "expected_slots": 4,
+  "quota": 3,
+  "position_base": 0,
+  "top_k": 1,
+  "identity": "canonical_isomeric_smiles",
+  "aggregation": "equal_dependence_unit"
+}

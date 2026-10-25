@@ -1,0 +1,15 @@
+method,target_id,position,smiles,source_valid
+model_a,target_1,0,CCO,1
+model_a,target_1,1,OCC,1
+model_a,target_1,2,CCN,1
+model_a,target_2,0,CCC,1
+model_a,target_2,1,CCCl,1
+model_a,target_2,2,CCBr,1
+model_a,target_2,3,CCI,1
+model_b,target_1,0,CCO,1
+model_b,target_1,1,CCN,1
+model_b,target_1,2,CCC,1
+model_b,target_1,3,CCCl,1
+model_b,target_2,0,CCO,1
+model_b,target_2,1,not-a-smiles,1
+model_b,target_2,2,CCN,0

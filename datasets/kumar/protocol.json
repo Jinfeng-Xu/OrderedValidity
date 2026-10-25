@@ -1,0 +1,413 @@
+{
+  "name": "Kumar molecular generation cohort",
+  "methods": [
+    "pfm",
+    "moljo",
+    "flowmol",
+    "drugflow",
+    "targetdiff",
+    "flowr",
+    "pocket2mol",
+    "prexsyn",
+    "reasyn",
+    "reinvent4_mol2mol",
+    "shepherd",
+    "synformer"
+  ],
+  "targets": [
+    {
+      "target_id": "ADB_1b9v_RA2_A_468",
+      "dependence_unit": "ADB_1b9v_RA2_A_468"
+    },
+    {
+      "target_id": "ADB_1cx2_S58_A_701",
+      "dependence_unit": "ADB_1cx2_S58_A_701"
+    },
+    {
+      "target_id": "ADB_1e3g_R18_A_1000",
+      "dependence_unit": "ADB_1e3g_R18_A_1000"
+    },
+    {
+      "target_id": "ADB_1f0r_815_A_401",
+      "dependence_unit": "ADB_1f0r_815_A_401"
+    },
+    {
+      "target_id": "ADB_1j4h_SUB_A_201",
+      "dependence_unit": "ADB_1j4h_SUB_A_201"
+    },
+    {
+      "target_id": "ADB_1kvo_OAP_A_190",
+      "dependence_unit": "ADB_1kvo_OAP_A_190"
+    },
+    {
+      "target_id": "ADB_1lru_BB2_A_501",
+      "dependence_unit": "ADB_1lru_BB2_A_501"
+    },
+    {
+      "target_id": "ADB_1q4x_G24_A_462",
+      "dependence_unit": "ADB_1q4x_G24_A_462"
+    },
+    {
+      "target_id": "ADB_1uy6_PU3_A_1224",
+      "dependence_unit": "ADB_1uy6_PU3_A_1224"
+    },
+    {
+      "target_id": "ADB_1uyg_PU2_A_1224",
+      "dependence_unit": "ADB_1uyg_PU2_A_1224"
+    },
+    {
+      "target_id": "ADB_2aa2_AS4_A_201",
+      "dependence_unit": "ADB_2aa2_AS4_A_201"
+    },
+    {
+      "target_id": "ADB_2azr_982_A_301",
+      "dependence_unit": "ADB_2azr_982_A_301"
+    },
+    {
+      "target_id": "ADB_2e1w_FR6_A_1",
+      "dependence_unit": "ADB_2e1w_FR6_A_1"
+    },
+    {
+      "target_id": "ADB_2gtk_208_A_1001",
+      "dependence_unit": "ADB_2gtk_208_A_1001"
+    },
+    {
+      "target_id": "ADB_2ica_2IC_A_1",
+      "dependence_unit": "ADB_2ica_2IC_A_1"
+    },
+    {
+      "target_id": "ADB_2oi0_283_A_1",
+      "dependence_unit": "ADB_2oi0_283_A_1"
+    },
+    {
+      "target_id": "ADB_2qd9_LGF_A_361",
+      "dependence_unit": "ADB_2qd9_LGF_A_361"
+    },
+    {
+      "target_id": "ADB_2rgp_HYZ_A_1",
+      "dependence_unit": "ADB_2rgp_HYZ_A_1"
+    },
+    {
+      "target_id": "ADB_2vwz_7X6_A_1889",
+      "dependence_unit": "ADB_2vwz_7X6_A_1889"
+    },
+    {
+      "target_id": "ADB_2zdt_46C_A_901",
+      "dependence_unit": "ADB_2zdt_46C_A_901"
+    },
+    {
+      "target_id": "ADB_3bkl_KAW_A_800",
+      "dependence_unit": "ADB_3bkl_KAW_A_800"
+    },
+    {
+      "target_id": "ADB_3bqd_DAY_A_301",
+      "dependence_unit": "ADB_3bqd_DAY_A_301"
+    },
+    {
+      "target_id": "ADB_3eml_ZMA_A_401",
+      "dependence_unit": "ADB_3eml_ZMA_A_401"
+    },
+    {
+      "target_id": "ADB_3f9m_MRK_A_501",
+      "dependence_unit": "ADB_3f9m_MRK_A_501"
+    },
+    {
+      "target_id": "ADB_3frg_SK4_A_1",
+      "dependence_unit": "ADB_3frg_SK4_A_1"
+    },
+    {
+      "target_id": "ADB_3hmm_855_A_857",
+      "dependence_unit": "ADB_3hmm_855_A_857"
+    },
+    {
+      "target_id": "ADB_3i4b_Z48_A_501",
+      "dependence_unit": "ADB_3i4b_Z48_A_501"
+    },
+    {
+      "target_id": "ADB_3k5e_K5E_A_369",
+      "dependence_unit": "ADB_3k5e_K5E_A_369"
+    },
+    {
+      "target_id": "ADB_3kba_WOW_A_1",
+      "dependence_unit": "ADB_3kba_WOW_A_1"
+    },
+    {
+      "target_id": "ADB_3kc3_MK2_A_500",
+      "dependence_unit": "ADB_3kc3_MK2_A_500"
+    },
+    {
+      "target_id": "ADB_3kk6_CEL_A_701",
+      "dependence_unit": "ADB_3kk6_CEL_A_701"
+    },
+    {
+      "target_id": "ADB_3kl6_443_A_1",
+      "dependence_unit": "ADB_3kl6_443_A_1"
+    },
+    {
+      "target_id": "ADB_3lan_KBT_A_561",
+      "dependence_unit": "ADB_3lan_KBT_A_561"
+    },
+    {
+      "target_id": "ADB_3lbk_K23_A_1",
+      "dependence_unit": "ADB_3lbk_K23_A_1"
+    },
+    {
+      "target_id": "ADB_3ln1_CEL_A_682",
+      "dependence_unit": "ADB_3ln1_CEL_A_682"
+    },
+    {
+      "target_id": "ADB_3lpb_NVB_A_1133",
+      "dependence_unit": "ADB_3lpb_NVB_A_1133"
+    },
+    {
+      "target_id": "ADB_3nw7_LGV_A_1",
+      "dependence_unit": "ADB_3nw7_LGV_A_1"
+    },
+    {
+      "target_id": "ADB_3skc_BR2_A_801",
+      "dependence_unit": "ADB_3skc_BR2_A_801"
+    },
+    {
+      "target_id": "PB_6TW5_9M2",
+      "dependence_unit": "PB_6TW5_9M2"
+    },
+    {
+      "target_id": "PB_6XCT_478",
+      "dependence_unit": "PB_6XCT_478"
+    },
+    {
+      "target_id": "PB_7AFX_R9K",
+      "dependence_unit": "PB_7AFX_R9K"
+    },
+    {
+      "target_id": "PB_7AKL_RK5",
+      "dependence_unit": "PB_7AKL_RK5"
+    },
+    {
+      "target_id": "PB_7KQU_YOF",
+      "dependence_unit": "PB_7KQU_YOF"
+    },
+    {
+      "target_id": "PB_7LMO_NYO",
+      "dependence_unit": "PB_7LMO_NYO"
+    },
+    {
+      "target_id": "PB_7M3H_YPV",
+      "dependence_unit": "PB_7M3H_YPV"
+    },
+    {
+      "target_id": "PB_7NGW_UAW",
+      "dependence_unit": "PB_7NGW_UAW"
+    },
+    {
+      "target_id": "PB_7NR8_UOE",
+      "dependence_unit": "PB_7NR8_UOE"
+    },
+    {
+      "target_id": "PB_7Q5I_I0F",
+      "dependence_unit": "PB_7Q5I_I0F"
+    },
+    {
+      "target_id": "PB_7RH3_59O",
+      "dependence_unit": "PB_7RH3_59O"
+    },
+    {
+      "target_id": "PB_7RSV_7IQ",
+      "dependence_unit": "PB_7RSV_7IQ"
+    },
+    {
+      "target_id": "PB_7T1D_E7K",
+      "dependence_unit": "PB_7T1D_E7K"
+    },
+    {
+      "target_id": "PB_7TYP_KUR",
+      "dependence_unit": "PB_7TYP_KUR"
+    },
+    {
+      "target_id": "PB_7V3S_5I9",
+      "dependence_unit": "PB_7V3S_5I9"
+    },
+    {
+      "target_id": "PB_7VC5_9SF",
+      "dependence_unit": "PB_7VC5_9SF"
+    },
+    {
+      "target_id": "PB_7WL4_JFU",
+      "dependence_unit": "PB_7WL4_JFU"
+    },
+    {
+      "target_id": "PB_7WPW_F15",
+      "dependence_unit": "PB_7WPW_F15"
+    },
+    {
+      "target_id": "PB_7WUY_76N",
+      "dependence_unit": "PB_7WUY_76N"
+    },
+    {
+      "target_id": "PB_7X5N_5M5",
+      "dependence_unit": "PB_7X5N_5M5"
+    },
+    {
+      "target_id": "PB_7XI7_4RI",
+      "dependence_unit": "PB_7XI7_4RI"
+    },
+    {
+      "target_id": "PB_8BTI_RFO",
+      "dependence_unit": "PB_8BTI_RFO"
+    },
+    {
+      "target_id": "PB_8F8E_XJI",
+      "dependence_unit": "PB_8F8E_XJI"
+    },
+    {
+      "target_id": "PL_1esw__1__1.A__1.B_1.D",
+      "dependence_unit": "PL_1esw__1__1.A__1.B_1.D"
+    },
+    {
+      "target_id": "PL_1fj4__1__1.B__1.F",
+      "dependence_unit": "PL_1fj4__1__1.B__1.F"
+    },
+    {
+      "target_id": "PL_1tcb__1__1.A__1.C",
+      "dependence_unit": "PL_1tcb__1__1.A__1.C"
+    },
+    {
+      "target_id": "PL_1w2x__1__1.A_2.A__2.D",
+      "dependence_unit": "PL_1w2x__1__1.A_2.A__2.D"
+    },
+    {
+      "target_id": "PL_1wk9__1__1.A__1.B",
+      "dependence_unit": "PL_1wk9__1__1.A__1.B"
+    },
+    {
+      "target_id": "PL_2j07__1__1.A__1.C",
+      "dependence_unit": "PL_2j07__1__1.A__1.C"
+    },
+    {
+      "target_id": "PL_2vzq__1__1.A__1.C_1.F",
+      "dependence_unit": "PL_2vzq__1__1.A__1.C_1.F"
+    },
+    {
+      "target_id": "PL_2yc3__1__2.A__2.B",
+      "dependence_unit": "PL_2yc3__1__2.A__2.B"
+    },
+    {
+      "target_id": "PL_3hf8__1__1.A__1.C",
+      "dependence_unit": "PL_3hf8__1__1.A__1.C"
+    },
+    {
+      "target_id": "PL_3n76__1__12.A_7.A__12.B",
+      "dependence_unit": "PL_3n76__1__12.A_7.A__12.B"
+    },
+    {
+      "target_id": "PL_3r1r__1__1.A__1.G",
+      "dependence_unit": "PL_3r1r__1__1.A__1.G"
+    },
+    {
+      "target_id": "PL_4aqh__1__1.A__1.D",
+      "dependence_unit": "PL_4aqh__1__1.A__1.D"
+    },
+    {
+      "target_id": "PL_4tx6__1__1.A__1.C",
+      "dependence_unit": "PL_4tx6__1__1.A__1.C"
+    },
+    {
+      "target_id": "PL_5dqe__2__1.B__1.E",
+      "dependence_unit": "PL_5dqe__2__1.B__1.E"
+    },
+    {
+      "target_id": "PL_5jau__1__1.A__1.E",
+      "dependence_unit": "PL_5jau__1__1.A__1.E"
+    },
+    {
+      "target_id": "PL_5vro__1__1.A_1.B__1.C",
+      "dependence_unit": "PL_5vro__1__1.A_1.B__1.C"
+    },
+    {
+      "target_id": "PL_6bl0__1__1.A__1.G",
+      "dependence_unit": "PL_6bl0__1__1.A__1.G"
+    },
+    {
+      "target_id": "PL_6c0m__1__1.B__1.R",
+      "dependence_unit": "PL_6c0m__1__1.B__1.R"
+    },
+    {
+      "target_id": "PL_6eut__1__1.A__1.C",
+      "dependence_unit": "PL_6eut__1__1.A__1.C"
+    },
+    {
+      "target_id": "PL_6f83__1__1.A__1.C",
+      "dependence_unit": "PL_6f83__1__1.A__1.C"
+    },
+    {
+      "target_id": "PL_6gw4__1__1.A__1.B",
+      "dependence_unit": "PL_6gw4__1__1.A__1.B"
+    },
+    {
+      "target_id": "PL_6gy9__1__1.A_1.B__1.C",
+      "dependence_unit": "PL_6gy9__1__1.A_1.B__1.C"
+    },
+    {
+      "target_id": "PL_6lq9__1__1.C__1.J",
+      "dependence_unit": "PL_6lq9__1__1.C__1.J"
+    },
+    {
+      "target_id": "PL_6rtw__1__1.A__1.D",
+      "dependence_unit": "PL_6rtw__1__1.A__1.D"
+    },
+    {
+      "target_id": "PL_6uux__1__1.A__1.C",
+      "dependence_unit": "PL_6uux__1__1.A__1.C"
+    },
+    {
+      "target_id": "PL_6yh0__1__1.A__1.D",
+      "dependence_unit": "PL_6yh0__1__1.A__1.D"
+    },
+    {
+      "target_id": "PL_6zc8__1__1.A__1.C",
+      "dependence_unit": "PL_6zc8__1__1.A__1.C"
+    },
+    {
+      "target_id": "PL_7cfd__1__1.A__1.B",
+      "dependence_unit": "PL_7cfd__1__1.A__1.B"
+    },
+    {
+      "target_id": "PL_7db7__1__2.A__2.C",
+      "dependence_unit": "PL_7db7__1__2.A__2.C"
+    },
+    {
+      "target_id": "PL_7okt__1__1.A__1.E",
+      "dependence_unit": "PL_7okt__1__1.A__1.E"
+    },
+    {
+      "target_id": "PL_7rbw__2__1.B__1.D",
+      "dependence_unit": "PL_7rbw__2__1.B__1.D"
+    },
+    {
+      "target_id": "PL_7v3d__1__1.A_1.B__1.F",
+      "dependence_unit": "PL_7v3d__1__1.A_1.B__1.F"
+    },
+    {
+      "target_id": "PL_8b18__1__1.A__1.C",
+      "dependence_unit": "PL_8b18__1__1.A__1.C"
+    },
+    {
+      "target_id": "PL_8q0u__1__1.A__1.D",
+      "dependence_unit": "PL_8q0u__1__1.A__1.D"
+    },
+    {
+      "target_id": "PL_8qth__1__1.A__1.B",
+      "dependence_unit": "PL_8qth__1__1.A__1.B"
+    },
+    {
+      "target_id": "PL_8sge__1__1.A__1.H",
+      "dependence_unit": "PL_8sge__1__1.A__1.H"
+    }
+  ],
+  "expected_slots": 100,
+  "quota": 90,
+  "position_base": 1,
+  "top_k": 3,
+  "identity": "canonical_isomeric_smiles",
+  "aggregation": "equal_target"
+}

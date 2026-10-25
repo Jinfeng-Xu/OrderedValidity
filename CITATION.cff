@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or the Kumar cohort, please cite the archived release and accompanying publication."
+title: "Ordered Validity for Molecular-Generation Benchmarks"
+type: software
+authors:
+  - family-names: Xu
+    given-names: Jinfeng
+version: 1.0.0
+date-released: 2026-10-25
+license: MIT
+
